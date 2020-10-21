@@ -1,0 +1,42 @@
+.buy-now{
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.header-area{
+    padding-top: 20px;
+}
+
+.indcolor li{
+    background-color: #ffc107;
+}
+
+p{
+    margin-top: 10px;
+}
+.navbar-light .navbar-nav .nav-link{
+    font-family: poppins;
+    font-weight: 500;
+}
+
+.card{
+    text-align: center;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: 0;
+}
+
+.card img{
+    margin-top: 20px;
+}
+
+.price{
+    font-weight: 700;
+}
